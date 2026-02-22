@@ -7,4 +7,4 @@ const Features = () => {
   )
 }
 
-export default CSSFontFeatureValuesRule
+export default Features
